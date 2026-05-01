@@ -1,5 +1,10 @@
 # 🔐 Global Cybersecurity Breach Intelligence Dashboard
 
+## 🔗 Live Dashboard
+[👉 Click here to view live interactive dashboard](https://app.powerbi.com/links/dtIavaVtKQ?ctid=bf93bb5e-ecf0-4e3d-be0e-79b5cc527a48&pbi_source=linkShare)
+
+![Dashboard Screenshot](dashboard_screenshot.png)
+
 ## Business Question
 Which industries are most vulnerable to cyberattacks, and how have breach patterns evolved from 2004–2021?
 
@@ -23,6 +28,3 @@ Which industries are most vulnerable to cyberattacks, and how have breach patter
 - `sql/` — SQL analysis queries
 - `outputs/` — All generated charts
 - `data/` — Raw and cleaned datasets
-
-## Dashboard
-Built with Power BI — 6 interactive visuals with slicers for year, method and industry filtering.
